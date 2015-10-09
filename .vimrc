@@ -8,9 +8,8 @@ set shiftwidth=4
 set expandtab
 
 "Colorscheme
-colorscheme solarized
-set background=dark
-
 set term=xterm-256color
 execute pathogen#infect()
 filetype plugin indent on
+colorscheme solarized
+set background=dark

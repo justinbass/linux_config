@@ -9,3 +9,5 @@ export P4CONFIG=.p4config
 
 git config --global user.name "Justin Bass"
 git config --global user.email justinalanbass@gmail.com
+
+. /etc/bashrc

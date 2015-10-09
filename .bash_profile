@@ -7,5 +7,5 @@ git config --global alias.d difftool
 
 export P4CONFIG=.p4config
 
---global user.name "Justin Bass"
---global user.email justinalanbass@gmail.com
+git config --global user.name "Justin Bass"
+git config --global user.email justinalanbass@gmail.com

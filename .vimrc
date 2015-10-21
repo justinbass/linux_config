@@ -1,5 +1,6 @@
 syntax enable
 
+set hlsearch
 set nu
 
 "4-space tabulations
@@ -14,3 +15,5 @@ set background=dark
 set term=xterm-256color
 execute pathogen#infect()
 filetype plugin indent on
+
+filetype indent off

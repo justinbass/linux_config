@@ -1,0 +1,17 @@
+{
+  "default_hour": 0, 
+  "default_minute": 0, 
+  "timeformat": "%Y-%m-%d %H:%M:%S",
+  "linewrap": 80, 
+  "encrypt": false, 
+  "editor": "vim", 
+  "highlight": true, 
+  "tagsymbols": "@",
+  "journals": {
+    "journal": "./journal.jrnl",
+    "work": {
+        "journal": "./workjournal.jrnl",
+        "timeformat": "%Y-%m-%d"
+    }
+  }
+}

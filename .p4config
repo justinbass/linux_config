@@ -1,4 +1,4 @@
-P4PORT=vcaperfsb01.hq.corp.viasat.com:2002
-P4CLIENT=jbass_samserv02_vcaperfsb01
-P4USER=jbass
+P4PORT=
+P4CLIENT=
+P4USER=
 P4DIFF=vimdiff

@@ -1,8 +1,8 @@
 # This is Git's per-user configuration file.
 [core]
 # Please adapt and uncomment the following lines:
-	user = Justin Bass
-    email = justin.bass@viasat.com
+    user = Justin Bass
+    email = justinalanbass@gmail.com
 [diff]
 	tool = vimdiff
 [difftool]

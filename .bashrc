@@ -1,0 +1,2 @@
+HISTIGNORE="jrnl *"
+

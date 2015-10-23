@@ -1,17 +1,26 @@
 {
   "default_hour": 0, 
-  "default_minute": 0, 
-  "timeformat": "%Y-%m-%d %H:%M:%S",
-  "linewrap": 80, 
+  "linewrap": 79, 
   "encrypt": false, 
+  "default_minute": 0, 
+  "tagsymbols": "@", 
   "editor": "vim", 
+  "timeformat": "%a, %b %d, %Y, %I:%M:%S %p", 
   "highlight": true, 
-  "tagsymbols": "@",
   "journals": {
-    "journal": "./journal.jrnl",
+    "default": {
+      "journal": "/Users/jbass/Desktop/ViaSat/Life Archive/Journals/journal/journal.jrnl", 
+      "encrypt": true
+    }, 
     "work": {
-        "journal": "./workjournal.jrnl",
-        "timeformat": "%Y-%m-%d"
+      "timeformat": "%Y-%m-%d", 
+      "journal": "/Users/jbass/Desktop/ViaSat/Life Archive/Work Files/ViaSat Full-Time/workjournal/workjournal.jrnl", 
+      "encrypt": false
+    },
+    "worknotes": {
+      "timeformat": "%Y-%m-%d %H:%M:%S", 
+      "journal": "/Users/jbass/Desktop/ViaSat/Life Archive/Work Files/ViaSat Full-Time/workjournal/worknotes.txt", 
+      "encrypt": false
     }
   }
 }

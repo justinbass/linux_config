@@ -11,3 +11,6 @@
 	d = difftool
 [merge]
 	tool = vimdiff
+[user]
+	name = Justin Bass
+	email = justinalanbass@gmail.com

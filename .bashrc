@@ -1,2 +1,1 @@
-HISTIGNORE="jrnl *"
 

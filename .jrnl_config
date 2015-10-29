@@ -9,17 +9,17 @@
   "highlight": true, 
   "journals": {
     "default": {
-      "journal": "/Users/jbass/Desktop/ViaSat/Life Archive/Journals/journal/journal.jrnl", 
+      "journal": "/Users/jbass/Desktop/Google Drive/Life Archive/Journals/journal/journal.jrnl", 
       "encrypt": true
     }, 
     "work": {
       "timeformat": "%Y-%m-%d", 
-      "journal": "/Users/jbass/Desktop/ViaSat/Life Archive/Work Files/ViaSat Full-Time/workjournal/workjournal.jrnl", 
+      "journal": "/Users/jbass/Desktop/Google Drive/ViaSat/workjournal/workjournal.jrnl", 
       "encrypt": false
     },
     "worknotes": {
       "timeformat": "%Y-%m-%d %H:%M:%S", 
-      "journal": "/Users/jbass/Desktop/ViaSat/Life Archive/Work Files/ViaSat Full-Time/workjournal/worknotes.txt", 
+      "journal": "/Users/jbass/Desktop/Google Drive/ViaSat/workjournal/worknotes.txt", 
       "encrypt": false
     }
   }

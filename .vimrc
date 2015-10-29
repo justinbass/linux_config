@@ -8,6 +8,8 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 
+set so=5
+
 "Colorscheme
 set term=xterm-256color
 execute pathogen#infect()

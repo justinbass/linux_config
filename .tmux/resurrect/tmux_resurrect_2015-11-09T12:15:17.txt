@@ -1,0 +1,35 @@
+pane	0	0	:MAC	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	1	:VTB	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	2	:VTB-dev	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	3	:SAM	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	4	:SAM2	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	5	:GMTL	0	: 	0	:/Users/jbass	1	ssh	:ssh d01-testsam01-a.gmtl.viasat.com
+pane	0	6	:AB	0	:-	0	:/Users/jbass	1	ssh	:ssh ab-tools-sam.sb.viasat.com
+pane	0	7	:REDA	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	8	:TEST1	0	: 	0	:/Users/jbass	1	ssh	:ssh samtest01.sb.viasat.com
+pane	0	9	:TEST2	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	10	:STAGE1	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	11	:SAMDEV1	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	12	:BBC1	0	: 	0	:/Users/jbass/Desktop/Google Drive/ViaSat/SAM/bbc_tool credentials	1	ssh	:ssh bbc-tools-sam01.sb.viasat.com
+pane	0	13	:MOB	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	14	:PUP	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	15	:JMP	1	:*	0	:/Users/jbass	1	bash	:
+pane	1	0	:bash	1	:*	0	:/Users/jbass	1	bash	:
+window	0	0	0	: 	ce9e,204x58,0,0,1
+window	0	1	0	: 	ce9f,204x58,0,0,2
+window	0	2	0	: 	cea0,204x58,0,0,3
+window	0	3	0	: 	cea1,204x58,0,0,4
+window	0	4	0	: 	cea2,204x58,0,0,5
+window	0	5	0	: 	cea3,204x58,0,0,6
+window	0	6	0	:-	6787,204x58,0,0,18
+window	0	7	0	: 	cea5,204x58,0,0,8
+window	0	8	0	: 	cea6,204x58,0,0,9
+window	0	9	0	: 	677f,204x58,0,0,10
+window	0	10	0	: 	6780,204x58,0,0,11
+window	0	11	0	: 	6781,204x58,0,0,12
+window	0	12	0	: 	6782,204x58,0,0,13
+window	0	13	0	: 	6783,204x58,0,0,14
+window	0	14	0	: 	cea4,204x58,0,0,7
+window	0	15	1	:*	e77f,204x58,0,0,20
+window	1	0	1	:*	6784,204x58,0,0,15
+state	0	1

@@ -1,0 +1,17 @@
+pane	0	0	:bash	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	1	:VTB	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	2	:VTBd	0	: 	0	:/Users/jbass	1	ssh	:ssh g01-vtbems01-dev.gtb.viasat.com
+pane	0	3	:SAM	1	:*	0	:/Users/jbass	1	ssh	:ssh samserv01.sb.viasat.com
+pane	0	4	:REDA	0	:-	0	:/Users/jbass	1	ssh	:ssh reda01.sb.viasat.com
+pane	0	5	:PUP	0	:!	0	:/Users/jbass/Desktop/Files/SAM/bbc_tool credentials	1	bash	:
+pane	0	6	:SAM2	0	: 	0	:/Users/jbass	1	ssh	:ssh sb2jumplinux01.sb.viasat.com
+pane	0	7	:BBCt	0	: 	0	:/Users/jbass/Desktop/Files/SAM/bbc_tool credentials	1	ssh	:ssh -i bbc_tools.pem centos@bbc-tools-sam01.sb.viasat.com
+window	0	0	0	: 	b35e,272x70,0,0,1
+window	0	1	0	: 	d9e2,272x70,0,0,23
+window	0	2	0	: 	d9e1,272x70,0,0,22
+window	0	3	1	:*	b362,272x70,0,0,5
+window	0	4	0	:-	d9e7,272x70,0,0,28
+window	0	5	0	:!	b365,272x70,0,0,8
+window	0	6	0	: 	d9e3,272x70,0,0,24
+window	0	7	0	: 	d9e6,272x70,0,0,27
+state	0	

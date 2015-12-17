@@ -1,0 +1,13 @@
+pane	0	0	:bash	0	: 	0	:/Users/jbass/Desktop/Files/VTB/UT TR-69 Timeout Blackboxes	1	bash	:
+pane	0	1	:VTB	0	: 	0	:/Users/jbass	1	ssh	:ssh g01-vtbems01.gtb.viasat.com
+pane	0	2	:VTBdev	0	: 	0	:/Users/jbass	1	ssh	:ssh g01-vtbems01-dev.gtb.viasat.com
+pane	0	3	:SAM1	0	:-	0	:/Users/jbass	1	ssh	:ssh samserv01.sb.viasat.com
+pane	0	4	:SAM2	1	:*	0	:/Users/jbass/Desktop/Files/SAM/QuincyWPT	1	ssh	:ssh sb2jumplinux01.sb.viasat.com
+pane	1	0	:bash	1	:*	0	:/Users/jbass	1	bash	:
+window	0	0	0	: 	677f,204x58,0,0,10
+window	0	1	0	: 	ce9f,204x58,0,0,2
+window	0	2	0	: 	6782,204x58,0,0,13
+window	0	3	0	:-	cea3,204x58,0,0,6
+window	0	4	1	:*	6783,204x58,0,0,14
+window	1	0	1	:*	cea1,204x58,0,0,4
+state	0	0

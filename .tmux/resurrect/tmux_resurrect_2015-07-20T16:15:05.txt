@@ -1,0 +1,17 @@
+pane	0	0	:bash	0	: 	0	:/Users/jbass/Desktop/Files/General	0	bash	:
+pane	0	0	:bash	0	: 	1	:/Users/jbass/Downloads/dxii-master	1	bash	:
+pane	0	1	:VTB	0	: 	0	:/Users/jbass	1	ssh	:ssh g01-vtbems01.gtb.viasat.com
+pane	0	2	:VTBd	0	: 	0	:/Users/jbass	1	ssh	:ssh g01-vtbems01-dev.gtb.viasat.com
+pane	0	3	:SAM	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	4	:BBCt	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	4	:BBCt	0	: 	1	:/Users/jbass	0	bash	:
+pane	0	5	:PUP	0	:-	0	:/Users/jbass/Desktop/Files/SAM/bbc_tool credentials	1	bash	:
+pane	0	6	:SAM2	1	:*	0	:/Users/jbass	1	bash	:
+window	0	0	0	: 	84c1,204x58,0,0{102x58,0,0,1,101x58,103,0,2}
+window	0	1	0	: 	b360,272x70,0,0,3
+window	0	2	0	: 	b361,272x70,0,0,4
+window	0	3	0	: 	b362,272x70,0,0,5
+window	0	4	0	: 	ac5d,272x70,0,0{136x70,0,0,6,135x70,137,0,7}
+window	0	5	0	:-	b365,272x70,0,0,8
+window	0	6	1	:*	b366,272x70,0,0,9
+state	0	0

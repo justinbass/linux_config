@@ -1,0 +1,15 @@
+pane	0	0	:bash	0	:-	0	:/Users/jbass	1	bash	:
+pane	0	1	:VTB	0	: 	0	:/Users/jbass	1	ssh	:ssh g01-vtbems01.gtb.viasat.com
+pane	0	2	:VTBd	0	: 	0	:/Users/jbass	1	ssh	:ssh g01-vtbems01-dev.gtb.viasat.com
+pane	0	3	:SAM	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	4	:SAM2	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	5	:PUP	0	: 	0	:/Users/jbass/Desktop/Files/SAM/bbc_tool credentials	1	ssh	:ssh -i bbc_tools.pem bbc-tools-puppetmaster.sb.viasat.com
+pane	0	7	:BBCt	1	:*	0	:/Users/jbass/Desktop/Files/SAM/bbc_tool credentials	1	traceroute	:traceroute google.com
+window	0	0	0	:-	ce9e,204x58,0,0,1
+window	0	1	0	: 	6786,204x58,0,0,17
+window	0	2	0	: 	6785,204x58,0,0,16
+window	0	3	0	: 	b362,272x70,0,0,5
+window	0	4	0	: 	cea6,204x58,0,0,9
+window	0	5	0	: 	cea5,204x58,0,0,8
+window	0	7	1	:*	cea3,204x58,0,0,6
+state	0	

@@ -1,0 +1,19 @@
+pane	0	0	:bash	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	1	:VTB	1	:*	0	:/Users/jbass	1	ssh	:ssh g01-vtbems01.gtb.viasat.com
+pane	0	2	:VTBd	0	: 	0	:/Users/jbass	1	ssh	:ssh g01-vtbems01-dev.gtb.viasat.com
+pane	0	3	:SAM	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	4	:REDA	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	5	:PUP	0	: 	0	:/Users/jbass/Desktop/Files/SAM/bbc_tool credentials	1	bash	:
+pane	0	6	:SAM2	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	7	:BBCt	0	: 	0	:/Users/jbass/Desktop/Files/SAM/bbc_tool credentials	1	bash	:
+pane	0	8	:RISK	0	:-	0	:/Users/jbass/Desktop/Files/General/RiskStats	1	bash	:
+window	0	0	0	: 	ce9e,204x58,0,0,1
+window	0	1	1	:*	ce9f,204x58,0,0,2
+window	0	2	0	: 	cea6,204x58,0,0,9
+window	0	3	0	: 	cea1,204x58,0,0,4
+window	0	4	0	: 	cea2,204x58,0,0,5
+window	0	5	0	: 	cea3,204x58,0,0,6
+window	0	6	0	: 	cea4,204x58,0,0,7
+window	0	7	0	: 	cea5,204x58,0,0,8
+window	0	8	0	:-	6780,204x58,0,0,11
+state	0	0

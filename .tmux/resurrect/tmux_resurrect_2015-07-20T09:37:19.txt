@@ -1,0 +1,14 @@
+pane	0	0	:MAC	0	: 	0	:/Users/jbass/Desktop/Files/General	1	bash	:
+pane	0	1	:VTB	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	2	:VTBd	0	: 	0	:/Users/jbass	1	ssh	:ssh g01-vtbems01-dev.gtb.viasat.com
+pane	0	3	:SAM	0	: 	0	:/Users/jbass	1	bash	:
+pane	0	4	:BBCt	1	:*	0	:/Users/jbass	1	ssh	:ssh bbc-tools-sam01.sb.viasat.com
+pane	0	5	:PUP	0	:-	0	:/Users/jbass/Downloads	1	bash	:
+pane	0	5	:PUP	0	:-	1	:/Users/jbass/Downloads	0	bash	:
+window	0	0	0	: 	b2fe,181x51,0,0,1
+window	0	1	0	: 	6784,204x58,0,0,15
+window	0	2	0	: 	59e7,272x70,0,0,18
+window	0	3	0	: 	cea1,204x58,0,0,4
+window	0	4	1	:*	cea2,204x58,0,0,5
+window	0	5	0	:-	b79a,204x58,0,0{92x58,0,0,7,111x58,93,0,13}
+state	0	0

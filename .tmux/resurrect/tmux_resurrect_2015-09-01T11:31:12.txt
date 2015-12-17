@@ -1,0 +1,9 @@
+pane	0	0	:MAC	0	: 	0	:/Users/jbass/Desktop/Files/timecard	1	bash	:
+pane	0	1	:VTB	1	:*	0	:/Users/jbass	1	ssh	:ssh g01-vtbems01.gtb.viasat.com
+pane	0	2	:VTB-dev	0	:-	0	:/Users/jbass	1	ssh	:ssh g01-vtbems01-dev.gtb.viasat.com
+pane	0	3	:SAM	0	: 	0	:/Users/jbass	1	ssh	:ssh samserv01.sb.viasat.com
+window	0	0	0	: 	ce9d,204x58,0,0,0
+window	0	1	1	:*	e781,204x58,0,0,22
+window	0	2	0	:-	e783,204x58,0,0,24
+window	0	3	0	: 	e784,204x58,0,0,25
+state	0	

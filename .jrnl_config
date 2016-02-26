@@ -13,7 +13,7 @@
       "encrypt": true
     }, 
     "work": {
-      "timeformat": "%Y-%m-%d", 
+      "timeformat": "%a, %b %d, %Y, %I:%M:%S %p", 
       "journal": "/Users/jbass/Desktop/Google Drive/ViaSat/workjournal/workjournal.jrnl", 
       "encrypt": false
     },

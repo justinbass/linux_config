@@ -12,11 +12,6 @@
       "journal": "/Users/jbass/Desktop/Google Drive/Life Archive/Journals/journal/journal.jrnl", 
       "encrypt": true
     }, 
-    "work": {
-      "timeformat": "%a, %b %d, %Y, %I:%M:%S %p", 
-      "journal": "/Users/jbass/Desktop/Google Drive/ViaSat/workjournal/workjournal.jrnl", 
-      "encrypt": false
-    },
     "worknotes": {
       "timeformat": "%Y-%m-%d %H:%M:%S", 
       "journal": "/Users/jbass/Desktop/Google Drive/ViaSat/workjournal/worknotes.txt", 

@@ -20,6 +20,13 @@ alias l=ls
 
 export P4CONFIG=~/.p4config
 
+alias tcl="rlwrap tclsh"
+
+vimp_function() {
+    ( (vim - -esbnN -c "norm $@" -c "w!/dev/stderr|q!" >/dev/null) 2>&1 )
+}
+alias vimp=vimp_function
+
 #Set git diff to be vimdiff
 git config --global diff.tool vimdiff
 git config --global difftool.prompt false

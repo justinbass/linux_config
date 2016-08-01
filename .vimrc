@@ -11,9 +11,9 @@ set expandtab
 set so=5
 
 "Colorscheme
-set term=xterm-256color
-execute pathogen#infect()
+#set term=xterm-256color
+#execute pathogen#infect()
 "filetype plugin indent on
-filetype indent off
-colorscheme solarized
-set background=dark
+#filetype indent off
+#colorscheme solarized
+#set background=dark

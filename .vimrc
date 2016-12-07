@@ -10,6 +10,8 @@ set expandtab
 
 set so=5
 
+colorscheme desert
+
 "Colorscheme
 "set term=xterm-256color
 "execute pathogen#infect()

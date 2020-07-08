@@ -33,7 +33,7 @@ alias bba='brazil-build apollo-pkg'
 alias bre='brazil-runtime-exec'
 alias brc='brazil-recursive-cmd'
 alias bws='brazil ws'
-alias bwsuse='bws use --gitMode -p'
+alias brause='bws use --gitMode -p'
 alias bwscreate='bws create -n'
 alias brc=brazil-recursive-cmd
 alias bbr='brc brazil-build'
@@ -64,3 +64,5 @@ bindkey "\ee[C" forward-word
 bindkey "\ee[D" backward-word
 bindkey "^H" backward-delete-word
 bindkey '^i' expand-or-complete-prefix # completion in the middle of a line
+
+export PATH=$HOME/.toolbox/bin:$PATH

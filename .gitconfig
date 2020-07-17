@@ -3,6 +3,8 @@
 # Please adapt and uncomment the following lines:
     user = Justin Bass
     email = justinalanbass@gmail.com
+[core]
+    excludesfile = ~/.gitignore
 [diff]
 	tool = vimdiff
 [difftool]
